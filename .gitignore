@@ -1,0 +1,14 @@
+# Exclude large/local data and paper
+/data_classification/
+/paper/
+/models/
+/@data_classification/
+/@paper/
+
+# Usual Python cache and env
+__pycache__/
+*.py[cod]
+venv/
+#
+# Windows reserved device filename accidentally present
+nul
